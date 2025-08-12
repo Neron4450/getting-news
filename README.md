@@ -1,9 +1,11 @@
 # Getting News
+
 **Generate executive‑ready Word reports from current news**: search, scrape, summarize, analyze, and export to a professionally formatted `.docx`—all from one Python file.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![License](https://img.shields.io/badge/License-Apache%202.0-green)
-![Build](https://github.com/ArcSelf/getting-news/actions/workflows/python.yml/badge.svg)
+[![GitHub Pre-Release](https://img.shields.io/github/v/release/ArcSelf/getting-news?include_prereleases&label=pre-release&color=orange)](https://github.com/ArcSelf/getting-news/releases)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green)](https://opensource.org/licenses/Apache-2.0)
+[![Build](https://github.com/ArcSelf/getting-news/actions/workflows/python.yml/badge.svg)](https://github.com/ArcSelf/getting-news/actions/workflows/python.yml)
 
 ## Features
 - 🔎 **News search** via DuckDuckGo (`ddgs`)
